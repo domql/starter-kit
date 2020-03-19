@@ -11,7 +11,7 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
-    "domql": "rackai/domql"
+    "domql": "git+https://git@github.com/rackai/domql"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
