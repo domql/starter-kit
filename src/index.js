@@ -1,7 +1,18 @@
 'use strict'
 
 import DOM from 'domql'
+var { performance } = window
 
-DOM.create({
-  text: `domql version ${DOM.about.version}`
+var start = performance.now()
+var dom = DOM.create({
+  style: {
+    fontFamily: '"Helvetica", "Arial", --system-default'
+  },
+  icon: '✅',
+  strong: 'domql',
+  text: ` render in `,
+  time: '',
+  milliseconds: ' milliseconds'
 })
+
+dom.update({ time: `${performance.now() - start}` })
