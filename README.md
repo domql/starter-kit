@@ -1,5 +1,5 @@
 # domql-example
-Example dev setup (boilerplate) to use `domql`
+Example dev setup (boilerplate) to use [domql](https://github.com/rackai/domql)
 
 ### Setup
 
