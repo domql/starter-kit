@@ -1,6 +1,6 @@
 'use strict'
 
-import DOM from 'domql'
+import DOM from '@rackai/domql'
 var { performance } = window
 
 var start = performance.now()
