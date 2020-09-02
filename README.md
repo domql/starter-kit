@@ -1,5 +1,5 @@
 # domql-example
-Example dev setup (boilerplate) to use [DOMQL](https://github.com/rackai/domql). You can also check live editor of [DOMQL Playground](https://github.com/rackai/playground).
+Example dev setup (boilerplate) to use [DOMQL](https://github.com/rackai/domql). You can also check live editor [Playground](https://github.com/rackai/playground).
 
 ### Setup
 
