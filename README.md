@@ -1,6 +1,8 @@
 # domql-example
 Example dev setup (boilerplate) to use [DOMQL](https://github.com/rackai/domql). You can also check live editor [Playground](https://rackai.github.io/playground/).
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rackai/domql-example)
+
 ### Setup
 
 1. Clone the repo
