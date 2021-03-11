@@ -2,6 +2,8 @@ tasks:
   - command: gp await-port 1234 && gp preview $(gp url 1234)
   - init: yarn
     command: yarn start
+node_js:
+  - '14.13.1'
 ports:
   - port: 1234
     onOpen: ignore
