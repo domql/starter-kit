@@ -13,6 +13,8 @@ var dom = DOM.create({
   text: ` render in `,
   time: '',
   milliseconds: ' milliseconds'
+}, null, 'app', {
+  retistry: defineEmotion
 })
 
 dom.update({ time: `${performance.now() - start}` })
