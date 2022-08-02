@@ -1,6 +1,6 @@
 'use strict'
 
-import DOM from '@domql/domql'
+import DOM from 'domql'
 var { performance } = window
 
 var start = performance.now()
