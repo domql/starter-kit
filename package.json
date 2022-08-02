@@ -1,8 +1,8 @@
 {
   "name": "@domql/starter-kit",
   "description": "",
-  "private": true,
-  "author": "",
+  "private": false,
+  "author": "symbo.ls",
   "version": "0.0.1",
   "repository": "",
   "main": "src/index.js",
