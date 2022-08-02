@@ -1,6 +1,6 @@
 {
   "name": "@domql/starter-kit",
-  "description": "",
+  "description": "Example DOMQL dev setup (boilerplate)",
   "private": false,
   "author": "symbo.ls",
   "version": "0.0.1",
