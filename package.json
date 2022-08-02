@@ -11,7 +11,7 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
-    "@domql/domql": "latest",
+    "domql": "latest",
     "@domql/emotion": "latest",
     "@domql/router": "latest"
   },
